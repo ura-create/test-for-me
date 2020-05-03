@@ -1,1 +1,1 @@
-# test-for-me
+print("Hello")
